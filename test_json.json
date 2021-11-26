@@ -1,1 +1,12 @@
-{"token":"abc","id":"def","teslafi_api":"xyz"}
+{"json_version":"2",
+    "Delay Climate _v":2,
+    "Delay Climate _l":"2",
+    "Heading Home _v":2,
+    "Heading Home _l":"def",
+    "Get Tesla State _v":2,
+    "Get Tesla State _l":"",
+    "Start Climate _v":2,
+    "Start Climate _l":"",
+    "Get Tesla Location _v":2,
+    "Get Tesla Location _l":"",
+}

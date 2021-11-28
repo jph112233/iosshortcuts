@@ -1,12 +1,39 @@
-{"json_version":"2",
-    "Delay Climate _v":2,
-    "Delay Climate _l":"2",
-    "Heading Home _v":2,
-    "Heading Home _l":"def",
-    "Get Tesla State _v":2,
-    "Get Tesla State _l":"",
-    "Start Climate _v":2,
-    "Start Climate _l":"",
-    "Get Tesla Location _v":2,
-    "Get Tesla Location _l":"",
+{   
+    "json_version":"2",
+    "Delay Climate" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Heading Home" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Get Tesla State" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Start Climate" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Get Tesla Location" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "C to F" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "F to C" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Wake up Tesla" : { 
+        "version" : 2, 
+        "link": "value" 
+    },
+    "Get Access Token" : { 
+        "version" : 2, 
+        "link": "value" 
+    }
 }
